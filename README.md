@@ -1,10 +1,10 @@
 ### Hello, I am Yash Garg.
 
 <!--
-**sKaiCzar/SKaiCzar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Yash-github591/Yash-github591** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
 
-I am a full stack web developer who tries to learn new technologies and make interesting projects.
+I am a full-stack web developer who likes to learn new technologies and make interesting projects.
 
 # Stats :
 
